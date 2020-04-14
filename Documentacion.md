@@ -49,7 +49,7 @@ Desarrollar e implementar un prototipo modular, que gestione inventario en un es
 
 ### CRONOGRAMA
 
-![Cronograma](https://github.com/SebastianV10/REGISTAL/blob/master/Imagenes/cronograma.png)
+![Cronograma](https://github.com/SebastianV10/REGISTAL/blob/master/Imagenes/cronograma.jpg)
 
 
 
