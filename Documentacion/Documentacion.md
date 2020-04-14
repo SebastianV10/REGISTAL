@@ -49,7 +49,8 @@ Desarrollar e implementar un prototipo modular, que gestione inventario en un es
 
 ### CRONOGRAMA
 
-![F](https://drive.google.com/file/d/1DISJZAxsF58pQFsbHP_3n1VHF2M-O4fc/view?usp=sharing)
+![Cronograma](https://github.com/SebastianV10/REGISTAL/blob/master/Documentacion/Imagenes/cronograma.png)
+
 
 
 
@@ -79,6 +80,24 @@ Inicia con la recepción de la solicitud al sistema por parte del funcionario, y
 
 ### PRESUPUESTO
 
+![Presupuesto](https://github.com/SebastianV10/REGISTAL/blob/master/Documentacion/Imagenes/presupuesto.png)
+
 
 
 ## MODELO ENTIDAD - RELACION
+
+
+
+![Modelo E-R](https://github.com/SebastianV10/REGISTAL/blob/master/Documentacion/Imagenes/Diagrama%20E-R.png)
+
+
+
+
+
+## INTEGRANTES
+
+| Nombre | Rol |
+| --- | --- |
+| Sebastian Vargas Aranda | Desarrollo |
+| Steven Oviedo Reyes | Desarrollo |
+| Humberto Antonio Figueroa | Base de datos |
