@@ -49,7 +49,7 @@ Desarrollar e implementar un prototipo modular, que gestione inventario en un es
 
 ### CRONOGRAMA
 
-![Cronograma](https://github.com/SebastianV10/REGISTAL/blob/master/Documentacion/Imagenes/cronograma.png)
+![Cronograma](https://github.com/SebastianV10/REGISTAL/blob/master/Imagenes/cronograma.png)
 
 
 
@@ -80,7 +80,7 @@ Inicia con la recepción de la solicitud al sistema por parte del funcionario, y
 
 ### PRESUPUESTO
 
-![Presupuesto](https://github.com/SebastianV10/REGISTAL/blob/master/Documentacion/Imagenes/presupuesto.png)
+![Presupuesto](https://github.com/SebastianV10/REGISTAL/blob/master/Imagenes/presupuesto.png)
 
 
 
@@ -88,7 +88,7 @@ Inicia con la recepción de la solicitud al sistema por parte del funcionario, y
 
 
 
-![Modelo E-R](https://github.com/SebastianV10/REGISTAL/blob/master/Documentacion/Imagenes/Diagrama%20E-R.png)
+![Modelo E-R](https://github.com/SebastianV10/REGISTAL/blob/master/Imagenes/Diagrama%20E-R.png)
 
 
 
