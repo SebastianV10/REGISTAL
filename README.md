@@ -31,12 +31,6 @@ Ejemplo de uso de Laravel, Booptrap y Docker, incluyendo MySql como gestor de ba
 * Tener modularizada la app.
 * Ejecutar `docker-composer up -d`
 
-## Integrantes
 
-| Nombre | Rol |
-| --- | --- |
-| Sebastian Vargas Aranda | Desarrollo |
-| Steven Oviedo Reyes | Desarrollo |
-| Humberto Antonio Figueroa | Base de datos |
 
 > Contiene Licencia 
