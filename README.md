@@ -33,4 +33,4 @@ Ejemplo de uso de Laravel, Booptrap y Docker, incluyendo MySql como gestor de ba
 
 
 
-> Contiene Licencia 
+> Este proyecta cuenta con licensia conforme a los terminos MIT.
