@@ -3,6 +3,8 @@
 Ejemplo de uso de Laravel, Booptrap y Docker, incluyendo MySql como gestor de base de datos.
 
 
+
+
 ## Estructura proyecto
 
 ├───frontend                  
@@ -12,16 +14,22 @@ Ejemplo de uso de Laravel, Booptrap y Docker, incluyendo MySql como gestor de ba
 └───Documentacion 
 
 
+
 ## Preparar
 
-* Contenedor [MySql](https://mcr.microsoft.com/mssql/server:2017-latest)
+* Imagen Laravel `docker pull laraveldev/php`   
+* Imagen MySQL `docker pull mysql`
+* Imagen Bootstrap `docker pull bootstrap1234/armada-bootstrap`
 * [Docker-composer](https://docs.docker.com/compose/install/) 
+
+
 
 ## Instrucciones Basicas
 
 * Descargue e instale la version de Docker-composer.
-* Ejecutar Docker, descargar e instalar las imagenes necesarias para correr. 
-* docker-composer up -d
+* Ejecutar Docker, por consolo introducir el comando.
+* Tener modularizada la app.
+* Ejecutar `docker-composer up -d`
 
 ## Integrantes
 
