@@ -94,3 +94,7 @@ Inicia con la recepción de la solicitud al sistema por parte del funcionario, y
 | Sebastian Vargas Aranda | Desarrollo |
 | Steven Oviedo Reyes | Desarrollo |
 | Humberto Antonio Figueroa | Base de datos |
+
+
+
+> Este proyecto cuenta con licencia conforme los terminos MIT.
