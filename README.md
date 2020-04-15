@@ -8,7 +8,7 @@ Ejemplo de uso de Laravel, Booptrap y Docker, incluyendo MySql como gestor de ba
 ## Estructura proyecto
 
 ├───frontend                  
-├───Laravel                   
+├───Laravel Backend                   
 ├───MySql                             
 ├───Docker                                
 └───Documentacion 
@@ -19,7 +19,7 @@ Ejemplo de uso de Laravel, Booptrap y Docker, incluyendo MySql como gestor de ba
 
 * Imagen Laravel `docker pull laraveldev/php`   
 * Imagen MySQL `docker pull mysql`
-* Imagen Bootstrap `docker pull bootstrap1234/armada-bootstrap`
+* Imagen Phpmyadmin `docker pull phpmyadmin/phpmyadmin`
 * [Docker-composer](https://docs.docker.com/compose/install/) 
 
 
