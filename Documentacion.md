@@ -84,13 +84,6 @@ Inicia con la recepción de la solicitud al sistema por parte del funcionario, y
 
 
 
-## MODELO ENTIDAD - RELACION
-
-
-
-![Modelo E-R](https://github.com/SebastianV10/REGISTAL/blob/master/Imagenes/Diagrama%20E-R.png)
-
-
 
 
 
